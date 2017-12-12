@@ -1,0 +1,9 @@
+#NPM
+node_modules/
+**/*.log
+
+#Projet
+dist/
+
+#BackUp
+BlogCorrect/
